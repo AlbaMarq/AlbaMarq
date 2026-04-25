@@ -33,7 +33,7 @@ Actualmente estoy desarrollándome en los ámbitos de **robótica** y **automati
 
 |                      |  Trabajando con   |
 |----------------------|-------------------|
-| Lenguajes            | ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=black&color=%23A8B9CC) ![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=yellow&logoSize=auto&color=%233776AB)    |
+| Lenguajes            | ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=black&color=%23A8B9CC) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python Badge](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python&logoColor=yellow&logoSize=auto&color=%233776AB)    |
 | Robótica             | ![ROS](https://img.shields.io/badge/ROS-blue?style=for-the-badge&logo=ros&logoColor=white&color=%2322314E) ![GAZEBO](https://img.shields.io/badge/GAZEBO-orange?style=for-the-badge&logo=facebookgaming&logoColor=white&color=%23FB923C) ![MATLAB](https://img.shields.io/badge/MATLAB-blue?style=for-the-badge&logo=atlassian&logoColor=white&color=blue)    |
 | Docs                 | ![Notion Badge](https://img.shields.io/badge/NOTION-white?style=for-the-badge&logo=notion&logoColor=black&color=%23FFFFFF) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LATEX](https://img.shields.io/badge/LATEX-green?style=for-the-badge&logo=latex&logoColor=white&color=%23008080)    |
 | SO                   | ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge)    |
